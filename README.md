@@ -11,6 +11,7 @@
 ※마이로봇은 3D프린터로 출력 또는 종이에 프린트해서 제작해볼 수 있습니다. 
 ![ScreenShot](https://github.com/makezonefablab/MakersBook01_MyRobot/blob/master/img/assemble.jpg)   
 
+![ScreenShot](https://raw.githubusercontent.com/makezonefablab/MakersBook01_MyRobot/master/img/3d.JPG)
 
 준비물
 --------------
